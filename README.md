@@ -13,7 +13,6 @@ This project focuses on implementing the guided projects 10.16, 15.4 and 15.5 fr
 - `datafun-07-ml`: Project repository
 - `README.md`: Provides an overview of the project, as well as instructions for setting up and executing the environment.
 - `requirements.txt`: Lists all packages required for the project.
-- `examples` files: Contains all associated textbook materials to perform project
 - `jingyuan_ml.ipynb`: Jupyter Notebook file
 
 ## Environment Setup 
